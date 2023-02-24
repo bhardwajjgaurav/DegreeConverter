@@ -71,10 +71,6 @@
         <scene sceneID="kq0-iA-9gt">
             <objects>
                 <viewController id="nRx-8u-T3k" customClass="MapViewController" customModule="DegreeConverter" customModuleProvider="target" sceneMemberID="viewController">
-                    <mapView key="view" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" mapType="standard" id="dEC-M9-BWp">
-                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
-                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                    </mapView>
                     <tabBarItem key="tabBarItem" title="Map" image="MapIcon" id="dl5-KK-Xjp"/>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="Nzb-Cq-dcb" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
